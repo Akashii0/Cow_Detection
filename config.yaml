@@ -1,0 +1,12 @@
+# path: C:\Users\Akashi\Desktop\Projects\DalensAI\data
+path: C:\Users\Akashi\Desktop\DalensAI\data
+train: images/train
+val: images/train
+# val: ../valid/images
+# test: ../test/images
+
+# classes
+# nc: 1
+# names: ['cattle']
+names:
+  0: cattle
